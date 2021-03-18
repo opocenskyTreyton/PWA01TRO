@@ -15,6 +15,7 @@ const PRECACHE_URLS = [
   'images/hello-icon-196maskable.png',
   'images/hello-icon-256.png',
   'images/hello-icon-512.png',
+  'images/CaliGull.png',
   'images/Cardinal.png',
   'images/Chicken.png',
   'images/Meadowlark.png',
